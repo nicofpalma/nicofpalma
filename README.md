@@ -1,8 +1,9 @@
 # 💫 About Me:
-🔭 Working as a Backend Developer at Comuny-T, focusing on creating efficient and scalable backend solutions.<br>
-🌱 I’m currently learning Cybersecurity, Smart Contracts, Laravel, databases and more.<br>💬 Ask me about Backend Development, Database Management, FullStack and Clean Code.<br>
+🔭 Working as a Backend Developer at [Comuny-T](https://comunyt.com), focusing on creating efficient and scalable backend solutions.<br>
+📚 I'm an advanced student of the Bachelor's Degree in Information Systems at UNLu (Universidad Nacional de Luján).
+🎓 Multimedia Designer at ISEC.
+🌱 I’m currently learning Cybersecurity, Smart Contracts, Laravel, databases and more.<br>
 ⚡ Fun fact: I've loved computers since I was a child. I also play piano, it helps me relax and sometimes sparks creative coding ideas.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-fernandez-palma) 
