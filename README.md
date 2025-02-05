@@ -2,7 +2,6 @@
 🔭 Working as a Backend Developer, focusing on creating efficient and scalable backend solutions.<br>
 📚 I'm an advanced student of the Bachelor's Degree in Information Systems at UNLu (Universidad Nacional de Luján).<br>
 🎓 Multimedia Designer at ISEC.<br>
-🌱 I’m currently learning Cybersecurity, Smart Contracts, Laravel, databases and more.<br>
 ⚡ Fun fact: I've loved computers since I was a child. I also play piano, it helps me relax and sometimes sparks creative coding ideas.
 
 ## 🌐 Socials:
