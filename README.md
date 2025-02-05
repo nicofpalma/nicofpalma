@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working as a Backend Developer at [Comuny-T](https://comunyt.com), focusing on creating efficient and scalable backend solutions.<br>
+🔭 Working as a Backend Developer, focusing on creating efficient and scalable backend solutions.<br>
 📚 I'm an advanced student of the Bachelor's Degree in Information Systems at UNLu (Universidad Nacional de Luján).<br>
 🎓 Multimedia Designer at ISEC.<br>
 🌱 I’m currently learning Cybersecurity, Smart Contracts, Laravel, databases and more.<br>
